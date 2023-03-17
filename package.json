@@ -1,0 +1,11 @@
+{
+  "name": "aiaf",
+  "version": "1.0.0",
+  "description": "Universal API for AI",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Alley <alley@alleyford.com>",
+  "license": "ISC"
+}
